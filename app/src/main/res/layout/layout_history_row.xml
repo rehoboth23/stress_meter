@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/time_stamp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.95"
+        android:textStyle="bold"
+        android:textAlignment="textStart"
+        android:padding="5dp"/>
+    <TextView
+        android:id="@+id/stress_level"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.95"
+        android:textStyle="bold"
+        android:textAlignment="textEnd"
+        android:padding="5dp"/>
+
+</TableRow>

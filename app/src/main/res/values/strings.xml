@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">StressMeter</string>
+    <string name="empty" />
+    <string name="open">OPEN</string>
+    <string name="close">CLOSE</string>
+    <string name="submit">SUBMIT</string>
+    <string name="cancel" tools:ignore="ButtonCase">CANCEL</string>
+    <string name="stressMeter">StressMeter</string>
+    <string name="results">Results</string>
+    <string name="more_images">MORE IMAGES</string>
+    <string name="instructions">Touch the image that best captures how stressed you fell right now</string>
+    <string name="summary">Summary of Results</string>
+    <string name="time">Time</string>
+    <string name="stress">Stress</string>
+    <string name="message">A graph showing you stress Levels</string>
+</resources>
